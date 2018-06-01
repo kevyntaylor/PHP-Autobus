@@ -1,2 +1,2 @@
 # rep_bus
-Simple Bus with PHP, AJAX and Materializecss
+<h3>Simple Bus with PHP, AJAX and Materializecss</h3>
