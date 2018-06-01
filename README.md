@@ -1,2 +1,2 @@
 # rep_bus
-<h3>Simple Bus with PHP, AJAX and Materializecss</h3>
+The objective of this project is to simulate the sale of seats of a bus by using the PHP programming language with AJAX requests
